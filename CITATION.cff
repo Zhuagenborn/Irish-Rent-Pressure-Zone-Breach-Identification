@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+authors:
+- family-names: Liu
+  given-names: Guowen
+  orcid: https://orcid.org/0000-0002-8375-5729
+- family-names: Arnedillo-Sanchez
+  given-names: Inmaculada
+  orcid: https://orcid.org/0000-0002-8749-9611
+- family-names: Chen
+  given-names: Zhenshuo
+  orcid: https://orcid.org/0000-0003-2091-4160
+title: Identification of the Breach of Short-Term Rental Regulations in Irish Rent Pressure Zones
+date-released: 2023-02-20
+url: https://github.com/Zhuagenborn/Irish-Rent-Pressure-Zone-Breach-Identification
+preferred-citation:
+  type: article
+  authors:
+  - family-names: Liu
+    given-names: Guowen
+    orcid: https://orcid.org/0000-0002-8375-5729
+  - family-names: Arnedillo-Sanchez
+    given-names: Inmaculada
+    orcid: https://orcid.org/0000-0002-8749-9611
+  - family-names: Chen
+    given-names: Zhenshuo
+    orcid: https://orcid.org/0000-0003-2091-4160
+  doi: 10.4236/jcc.2023.112002
+  journal: Journal of Computer and Communications
+  month: 2
+  start: 8
+  end: 19
+  title: Identification of the Breach of Short-Term Rental Regulations in Irish Rent Pressure Zones
+  volume: 11
+  year: 2023
